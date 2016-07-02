@@ -7,3 +7,4 @@ function  clausum() {
     sum = value1 + value2;
     alert(sum);
 }
+1231231
