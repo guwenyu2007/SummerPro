@@ -8,3 +8,4 @@ function  clausum() {
     alert(sum);
 }
 1231231
+同加蓬
